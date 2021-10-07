@@ -22,3 +22,6 @@ jobs:
           # Achievement plugin
           plugin_achievements: yes
           plugin_achievements_threshold: B
+          
+          # Lines of code
+          plugin_lines: yes
