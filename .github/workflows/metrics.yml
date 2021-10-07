@@ -14,3 +14,11 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Language plugin
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+
+          # Achievement plugin
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
