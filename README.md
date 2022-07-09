@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## I am Sukhrob Ilyosbekov
-- 💻 .NET Software Engineer
+- 💻 Software Engineer
 - 💬 Ask me about anything related to .NET and C#
 - 📫 How to reach me: Telegram @suxrobgm
-- 🤖 Most loved languages: C#, TypeScript
+- 🤖 Most loved languages: C# and TypeScript
 
 ![Metrics](https://github.com/suxrobGM/suxrobGM/blob/main/github-metrics.svg)
