@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything related with .NET and C#
+- 💬 Ask me about anything related with .NET and JavaScript
 - 📫 How to reach me: Telegram @suxrobgm
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I am Sukhrob Ilyosbekov
 - 💻 Software Engineer
-- 💬 Ask me about anything related to .NET and C#
+- 💬 Ask me about anything related to .NET and JavaScript
 - 📫 How to reach me: Telegram @suxrobgm
 - 🤖 Most loved languages: C# and TypeScript
 
