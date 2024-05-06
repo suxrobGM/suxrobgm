@@ -10,7 +10,8 @@ As a dedicated **Software Engineer**, I specialize in both **.NET** and **JavaSc
 
 #### 🛠️ Technologies
 - **Most Loved Languages:** C# and TypeScript
-- **Frameworks and Tools:** .NET, Unity, Godot, PhaserJS, Node.js, Angular, Blazor. For more information about tech stack, check out my [resume](https://suxrobgm.net/resume)
+- **Frameworks and Tools:** .NET, Unity, Godot, PhaserJS, Node.js, Angular, Blazor and many more! 
+For more information about my tech stack, check out my [resume](https://suxrobgm.net/resume)
 
 #### 📬 How to Reach Me
 - **Telegram:** [@suxrobgm](https://t.me/suxrobgm)
@@ -34,5 +35,5 @@ Check out my repositories to see what I'm currently working on. From web applica
 3. ChessMate - is an online chess platform where players can engage in player-versus-player (PvP) matches or compete against AI. Check out [repository](https://github.com/suxrobGM/online-chess)
 ![Chessmate](https://raw.githubusercontent.com/suxrobGM/online-chess/main/screenshots/screenshot-3.jpg)
 
-4. Maze - 2D maze game with AI built using Godot. Check out [repository](https://github.com/suxrobGM/maze-godot) 
+4. Maze - 2D maze game with AI built using Godot. Check out [repository](https://github.com/suxrobGM/maze-godot)
 ![Maze 2D](https://raw.githubusercontent.com/suxrobGM/maze-godot/main/screenshots/game-scene.png)
