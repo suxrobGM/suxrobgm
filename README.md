@@ -1,39 +1,88 @@
-# Welcome to My GitHub! 👋
+# Hey — I'm Sukhrob Ilyosbekov 👋
 
-### I'm Sukhrob Ilyosbekov
+**Senior Full-Stack Engineer (.NET + TypeScript) | Cloud | Realtime | AI | Games**
 
-As a dedicated **Software Engineer**, I specialize in both **.NET** and **JavaScript** ecosystems. I am passionate about coding and building innovative applications, especially interactive games.
+I design and ship production-ready web apps, APIs, real-time systems, and games. I care about clean architecture, performance, and DX.
 
-#### 🌟 What I Do
-- **💻 Software Development:** Expertise in creating robust and scalable applications of any type: web, mobile, desktop, cloud, and game applications.
-- **🎮 Game Development:** Passionate about designing and developing games. Ask me about game programming!
+---
 
-#### 🛠️ Technologies
-- **Most Loved Languages:** C# and TypeScript
-- **Frameworks and Tools:** .NET, Unity, Godot, PhaserJS, Node.js, Angular, Blazor and many more! 
-For more information about my tech stack, check out my [resume](https://suxrobgm.net/resume)
+### 🔧 What I do
+- **Full-stack product dev:** React/Next.js, ASP.NET Core/NestJS, FastAPI  
+- **Cloud & DevOps:** AWS & Azure, Docker, Kubernetes, CI/CD  
+- **Realtime & data:** SignalR/WebSockets, gRPC, RabbitMQ, PostgreSQL/Redis  
+- **AI & imaging:** PyTorch/OpenCV/YOLO, DICOM/OHIF, HIPAA-ready patterns  
+- **Game dev:** Unity/Phaser, authoritative servers, matchmaking, sync
 
-#### 📬 How to Reach Me
-- **Telegram:** [@suxrobgm](https://t.me/suxrobgm)
+---
 
-#### 💬 Ask Me
-Feel free to ask me anything about .NET, JavaScript, or game development. I'm here to help and collaborate!
+### 🧰 Core stack
+**Languages:** C#, TypeScript, Python, Java  
+**Frontend:** React, Next.js, Angular, Blazor  
+**Backend:** ASP.NET Core, NestJS/Node, FastAPI, Spring Boot, Bun  
+**Data:** PostgreSQL, MS SQL, MySQL, MongoDB, Redis, DynamoDB  
+**Infra:** AWS, Azure, Docker, Kubernetes, CI/CD  
+**Realtime:** SignalR, WebSockets, gRPC, Colyseus  
+**Game Engines:** Unity, Phaser, Godot
 
-#### 🚀 Projects
-Check out my repositories to see what I'm currently working on. From web applications to thrilling game projects, you'll find a wide range of interesting codebases.
+> More details in my [resume →](https://suxrobgm.net/resume)
 
+---
 
+### 🚀 Featured projects
+
+- **Logistics TMS (SaaS, multi-tenant)**  
+  Fleet and dispatch platform for logistics companies—trip/load planning, driver ops, live updates, and per-tenant isolation. Designed with clean boundaries so teams can extend safely.  
+  `C# · ASP.NET Core · EF Core · PostgreSQL · Angular · Blazor · Docker · DDD`  
+  Repo: https://github.com/suxrobgm/logistics-app
+
+- **Med Image Scanner (DICOM + AI)**  
+  Web DICOM viewer with measurement/segmentation tools and AI overlays; integrates with PACS/DICOM and follows HIPAA-friendly patterns. OHIF for rendering, FastAPI for inference services.  
+  `Python · FastAPI · Next.js · PyTorch · OpenCV · PostgreSQL`  
+  Repo: https://github.com/suxrobgm/med-image-scanner
+
+- **Blazor Form Builder**  
+  Drag-and-drop form designer that outputs JSON schema and a runtime renderer—cuts form development and maintenance time for admin dashboards.  
+  `C# · Blazor · ASP.NET Core · SQL Server`  
+  Repo: https://github.com/suxrobgm/blazor-form-builder
+
+- **Bookshelf Scanner**  
+  End-to-end CV + LLM pipeline that detects book spines from a photo and extracts titles/authors for export—demo of YOLO + OCR orchestration.  
+  `Python · FastAPI · TypeScript · YOLO · LlamaCPP · Moondream2 · PyTorch`  
+  Repo: https://github.com/suxrobgm/bookshelf-scanner
+
+---
+
+### 🎮 Game & realtime portfolio
+
+- **Hearts of Iron IV: Economic Crisis**  
+  Large global mod with new mechanics and AI behaviors; focused on balance, systems design, and tooling.  
+  [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465) · [Releases](https://github.com/Economic-Crisis/Public-releases)  
+  <img src="./screenshots/hoi-4-ec.jpg" alt="HOI4 EC" width="600"/>
+
+- **Chestnut (MMO)**  
+  PvP/PvE real-time MMO with an authoritative server and custom sync/physics; worked across gameplay loops and backend integration.  
+  Play: https://www.chest-nut.io  
+  <img src="./screenshots/chestnut.jpg" alt="Chestnut MMO" width="600"/>
+
+- **ChessMate**  
+  Online chess vs AI or PvP with match management and a modern web UI.  
+  Repo: https://github.com/suxrobGM/online-chess  
+  <img src="https://raw.githubusercontent.com/suxrobGM/online-chess/main/screenshots/screenshot-3.jpg" alt="ChessMate" width="600"/>
+
+- **Maze**  
+  2D maze game featuring basic AI pathfinding and level progression on the Godot engine.
+  Repo: https://github.com/suxrobGM/maze-godot  
+  <img src="https://raw.githubusercontent.com/suxrobGM/maze-godot/main/screenshots/game-scene.png" alt="Maze 2D" width="600"/>
+
+---
+
+### 📊 Metrics
 ![Metrics](https://github.com/suxrobGM/suxrobGM/blob/main/github-metrics.svg)
 
-## My portfolio games
-1. Hearts of Iron IV: Economic Crisis - a non-commercial global mod based on the Hearts of Iron IV. Check out at [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465) and [repository](https://github.com/Economic-Crisis/Public-releases)
-![Hearts of Iron IV Economic Crisis](./screenshots/hoi-4-ec.jpg)
+---
 
-2. Chestnut - is a thrilling play-to-earn MMO combining PvP and PvE battles with cryptocurrency rewards. Play [here](https://www.chest-nut.io)
-![Chestnut](./screenshots/chestnut.jpg)
+### 📫 Contact
+- Telegram: [@suxrobgm](https://t.me/suxrobgm)
+- Portfolio/Resume: https://suxrobgm.net/resume
 
-3. ChessMate - is an online chess platform where players can engage in player-versus-player (PvP) matches or compete against AI. Check out [repository](https://github.com/suxrobGM/online-chess)
-![Chessmate](https://raw.githubusercontent.com/suxrobGM/online-chess/main/screenshots/screenshot-3.jpg)
-
-4. Maze - 2D maze game with AI built using Godot. Check out [repository](https://github.com/suxrobGM/maze-godot)
-![Maze 2D](https://raw.githubusercontent.com/suxrobGM/maze-godot/main/screenshots/game-scene.png)
+> Ask me about **.NET**, **TypeScript**, **cloud**, **realtime**, or **game programming** — always happy to help or collaborate.
