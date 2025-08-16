@@ -52,7 +52,7 @@ I design and ship production-ready web apps, APIs, real-time systems, and games.
 
 ---
 
-### 🎮 Game & realtime portfolio
+### 🎮 Games I built
 
 - **Hearts of Iron IV: Economic Crisis**  
   Large global mod with new mechanics and AI behaviors; focused on balance, systems design, and tooling.  
@@ -83,6 +83,6 @@ I design and ship production-ready web apps, APIs, real-time systems, and games.
 
 ### 📫 Contact
 - Telegram: [@suxrobgm](https://t.me/suxrobgm)
-- Portfolio/Resume: https://suxrobgm.net/resume
+- LinkedIn: https://www.linkedin.com/in/suxrobgm
 
 > Ask me about **.NET**, **TypeScript**, **cloud**, **realtime**, or **game programming** — always happy to help or collaborate.
