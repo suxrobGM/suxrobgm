@@ -16,13 +16,13 @@ I design and ship production-ready web apps, APIs, real-time systems, and games.
 ---
 
 ### 🧰 Core stack
-**Languages:** C#, TypeScript, Python, Java  
-**Frontend:** React, Next.js, Angular, Blazor  
-**Backend:** ASP.NET Core, NestJS/Node, FastAPI, Spring Boot, Bun  
-**Data:** PostgreSQL, MS SQL, MySQL, MongoDB, Redis, DynamoDB  
-**Infra:** AWS, Azure, Docker, Kubernetes, CI/CD  
-**Realtime:** SignalR, WebSockets, gRPC, Colyseus  
-**Game Engines:** Unity, Phaser, Godot
+- **Languages:** C#, TypeScript, Python, Java  
+- **Frontend:** React, Next.js, Angular, Blazor  
+- **Backend:** ASP.NET Core, NestJS/Node, FastAPI, Spring Boot, Bun  
+- **Data:** PostgreSQL, MS SQL, MySQL, MongoDB, Redis, DynamoDB  
+- **Infra:** AWS, Azure, Docker, Kubernetes, CI/CD  
+- **Realtime:** SignalR, WebSockets, gRPC, Colyseus  
+- **Game Engines:** Unity, Phaser, Godot
 
 > More details in my [resume →](https://suxrobgm.net/resume)
 
