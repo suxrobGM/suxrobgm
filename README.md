@@ -1,8 +1,8 @@
 # Hey, I'm Sukhrob 👋
 
-**Senior Full-Stack Engineer | .NET · TypeScript · Python | CV Researcher**
+**Senior Full-Stack Engineer | CV Researcher | .NET · TypeScript · Python**
 
-I build production-ready web apps, APIs, real-time systems, and games—with a research focus on computer vision and deep learning. I care about clean architecture, performance, and shipping things that work.
+I build production-ready web apps, APIs, real-time systems, and games - with a research focus on computer vision and deep learning. I care about clean architecture, performance, and shipping things that work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suxrobgm)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/suxrobgm)
