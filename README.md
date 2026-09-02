@@ -38,7 +38,7 @@
 
 ### Secondary Stack &nbsp;·&nbsp; Software Engineering
 
-<sub>Nine years of production work, now mostly in service of shipping research.</sub>
+<small>Nine years of production work, now mostly in service of shipping research.</small>
 
 <img src="https://skillicons.dev/icons?i=cs,ts,cpp,kotlin,fastapi,nodejs,bun&theme=dark" alt="Languages and backend" width="330"/>
 <br/>
@@ -56,146 +56,82 @@ Full list with abstracts and BibTeX: **[suxrobgm.net/research](https://suxrobgm.
 
 ### Publications
 
-<table>
-<tr>
-<td width="33%" valign="top">
+> ### MorphoCLIP
+>
+> [![arXiv](https://img.shields.io/badge/arXiv-2608.22690-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22690)
+> [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/suxrobgm/morphoclip)
+> [![Data](https://img.shields.io/badge/%F0%9F%A4%97_Data-FFD21E?style=flat-square)](https://huggingface.co/datasets/suxrobgm/cpjump1-dinov3-features)
+>
+> Matches microscopy of drug-perturbed cells to plain-language descriptions of the treatment. Encoders stay frozen and only projection heads train, so it fits one consumer GPU.
+>
+> <small>**CPJUMP1** · 51 plates · 3M+ images</small>
+>
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![Contrastive](https://img.shields.io/badge/Contrastive-333?style=flat-square)
 
-<div align="center">
+> ### Localize, Don't Beautify
+>
+> [![arXiv](https://img.shields.io/badge/arXiv-2608.02841-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02841)
+> [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/suxrobGM/localize-dont-beautify)
+>
+> Ask a commercial editor to change one facial feature and it beautifies the whole face. Benchmarks three localization strategies; plain masking beat prompt-only steering.
+>
+> <small>**6 editors** · 196 edits · identity scored</small>
+>
+> ![ArcFace](https://img.shields.io/badge/ArcFace-333?style=flat-square)
+> ![Inpainting](https://img.shields.io/badge/Inpainting-333?style=flat-square)
 
-**MorphoCLIP**
-
-[![arXiv](https://img.shields.io/badge/arXiv-2608.22690-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22690)
-[![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/suxrobgm/morphoclip)
-[![Data](https://img.shields.io/badge/%F0%9F%A4%97_Data-FFD21E?style=flat-square)](https://huggingface.co/datasets/suxrobgm/cpjump1-dinov3-features)
-
-</div>
-
-Matches microscopy of drug-perturbed cells to plain-language descriptions of the treatment. Encoders stay frozen and only projection heads train, so it fits one consumer GPU.
-
-<sub>**CPJUMP1** · 51 plates · 3M+ images</sub>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Contrastive](https://img.shields.io/badge/Contrastive-333?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-**Localize, Don't Beautify**
-
-[![arXiv](https://img.shields.io/badge/arXiv-2608.02841-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02841)
-[![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/suxrobGM/localize-dont-beautify)
-
-</div>
-
-Ask a commercial editor to change one facial feature and it beautifies the whole face. Benchmarks three localization strategies; plain masking beat prompt-only steering.
-
-<sub>**6 editors** · 196 edits · identity scored</sub>
-
-![ArcFace](https://img.shields.io/badge/ArcFace-333?style=flat-square)
-![Inpainting](https://img.shields.io/badge/Inpainting-333?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-**MelanomaNet**
-
-[![arXiv](https://img.shields.io/badge/arXiv-2512.09289-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.09289)
-[![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/suxrobgm/explainable-melanoma)
-
-</div>
-
-Skin lesion classification across all nine ISIC 2019 classes. GradCAM++ attention is scored against the ABCDE criteria clinicians already use, so interpretability gets a number.
-
-<sub>**ISIC 2019** · 25,331 images · 0.856 F1</sub>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![GradCAM](https://img.shields.io/badge/GradCAM++-333?style=flat-square)
-
-</td>
-</tr>
-</table>
+> ### MelanomaNet
+>
+> [![arXiv](https://img.shields.io/badge/arXiv-2512.09289-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.09289)
+> [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/suxrobgm/explainable-melanoma)
+>
+> Skin lesion classification across all nine ISIC 2019 classes. GradCAM++ attention is scored against the ABCDE criteria clinicians already use, so interpretability gets a number.
+>
+> <small>**ISIC 2019** · 25,331 images · 0.856 F1</small>
+>
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![GradCAM](https://img.shields.io/badge/GradCAM++-333?style=flat-square)
 
 ### Applied Vision Work
 
 Models built against real inputs rather than a clean benchmark split.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> ### [Med Image Scanner](https://github.com/suxrobgm/med-image-scanner)
+>
+> Pulls studies straight from hospital PACS over DICOM and runs detection models over them. Predictions show up as overlays in the viewer, alongside measurement and segmentation tools. HIPAA-ready.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+> ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<div align="center">
-
-**[Med Image Scanner](https://github.com/suxrobgm/med-image-scanner)**
-
-</div>
-
-Pulls studies straight from hospital PACS over DICOM and runs detection models over them. Predictions show up as overlays in the viewer, alongside measurement and segmentation tools. HIPAA-ready.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**[Bookshelf Scanner](https://github.com/suxrobgm/bookshelf-scanner)**
-
-</div>
-
-Point a camera at a bookshelf and get back a list of what is on it. YOLO segmentation cuts out each spine, then a vision-language model reads the title and author off it.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-</td>
-</tr>
-</table>
+> ### [Bookshelf Scanner](https://github.com/suxrobgm/bookshelf-scanner)
+>
+> Point a camera at a bookshelf and get back a list of what is on it. YOLO segmentation cuts out each spine, then a vision-language model reads the title and author off it.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ### Graduate Coursework
 
 Kept separate from the published work above.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> ### [LightDepth](https://github.com/suxrobgm/lightdepth)
+>
+> Lightweight monocular depth estimation. Holds accuracy at **14.3M params** where Depth Anything V2 needs 24.8M, runs **72% faster**, and comes out slightly ahead on relative error on NYU Depth V2.
+>
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![Model](https://img.shields.io/badge/ResNet18_+_UNet-333?style=flat-square)
 
-<div align="center">
-
-**[LightDepth](https://github.com/suxrobgm/lightdepth)**
-
-</div>
-
-Lightweight monocular depth estimation. Holds accuracy at **14.3M params** where Depth Anything V2 needs 24.8M, runs **72% faster**, and comes out slightly ahead on relative error on NYU Depth V2.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Model](https://img.shields.io/badge/ResNet18_+_UNet-333?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**[FSRCNN](https://github.com/suxrobgm/fsrcnn)**
-
-</div>
-
-Reproduction of FSRCNN (Dong et al., ECCV 2016) for super-resolution at 2x/3x/4x. Upsampling is learned end to end, which is where the **40x speedup** over SRCNN comes from (+1.78 dB PSNR on Set5).
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![AMP](https://img.shields.io/badge/Mixed_Precision-333?style=flat-square)
-
-</td>
-</tr>
-</table>
+> ### [FSRCNN](https://github.com/suxrobgm/fsrcnn)
+>
+> Reproduction of FSRCNN (Dong et al., ECCV 2016) for super-resolution at 2x/3x/4x. Upsampling is learned end to end, which is where the **40x speedup** over SRCNN comes from (+1.78 dB PSNR on Set5).
+>
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![AMP](https://img.shields.io/badge/Mixed_Precision-333?style=flat-square)
 
 ---
 
@@ -203,105 +139,54 @@ Reproduction of FSRCNN (Dong et al., ECCV 2016) for super-resolution at 2x/3x/4x
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/user-group-man-man.png" alt="users"/>
-<br/>
-<strong>60K+</strong>
-<br/>
-<sub>Users on Meat.gg</sub>
-</td>
-<td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/rocket.png" alt="projects"/>
-<br/>
-<strong>10+</strong>
-<br/>
-<sub>Shipped Projects</sub>
-</td>
-<td align="center" width="33%">
-<img width="60" src="https://img.icons8.com/fluency/96/checkmark.png" alt="jss"/>
-<br/>
-<strong>100%</strong>
-<br/>
-<sub>Upwork Job Success</sub>
-</td>
-</tr>
-</table>
+![Users](https://img.shields.io/badge/Meat.gg-60K%2B_users-1f6feb?style=for-the-badge&logo=counterstrike&logoColor=white)
+![Projects](https://img.shields.io/badge/Shipped-10%2B_projects-1f6feb?style=for-the-badge&logo=rocket&logoColor=white)
+![Upwork](https://img.shields.io/badge/Upwork-100%25_job_success-1f6feb?style=for-the-badge&logo=upwork&logoColor=white)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> ### [LogisticsX](https://logisticsx.app)
+>
+> [![Source](https://img.shields.io/badge/-Source-181717?style=flat-square&logo=github)](https://github.com/suxrobgm/logistics-app)
+>
+> Multi-tenant TMS for intermodal trucking. Wired into the big load boards (DAT, Truckstop), with ELD/HOS compliance, Stripe Connect, route optimization, and live tracking. **DDD + CQRS architecture.**
+>
+> ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+> ![Kotlin](https://img.shields.io/badge/Kotlin_KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<div align="center">
+> ### [Meat.gg](https://meat.gg)
+>
+> `60K+ users` &nbsp; `1K+ DAU`
+>
+> Community platform for Counter-Strike 2 servers. Profiles and messaging, a shop running on Stripe, and a native plugin that lets admins ban, report, and moderate from inside the game.
+>
+> ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+> ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**[LogisticsX](https://logisticsx.app)** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-181717?style=flat-square&logo=github)](https://github.com/suxrobgm/logistics-app)
+> ### [DepVault](https://depvault.com)
+>
+> [![Source](https://img.shields.io/badge/-Source-181717?style=flat-square&logo=github)](https://github.com/suxrobGM/depvault)
+>
+> Scans a project's dependencies across **8+ ecosystems** for known vulnerabilities via OSV.dev, and doubles as an encrypted secrets vault: AES-256-GCM, one-time secret sharing, CI/CD token injection.
+>
+> ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+> ![.NET](https://img.shields.io/badge/.NET_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</div>
-
-Multi-tenant TMS for intermodal trucking. Wired into the big load boards (DAT, Truckstop), with ELD/HOS compliance, Stripe Connect, route optimization, and live tracking. **DDD + CQRS architecture.**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin_KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**[Meat.gg](https://meat.gg)** &nbsp; `60K+ users` `1K+ DAU`
-
-</div>
-
-Community platform for Counter-Strike 2 servers. Profiles and messaging, a shop running on Stripe, and a native plugin that lets admins ban, report, and moderate from inside the game.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**[DepVault](https://depvault.com)** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-181717?style=flat-square&logo=github)](https://github.com/suxrobGM/depvault)
-
-</div>
-
-Scans a project's dependencies across **8+ ecosystems** for known vulnerabilities via OSV.dev, and doubles as an encrypted secrets vault: AES-256-GCM, one-time secret sharing, CI/CD token injection.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**[Blazor Form Builder](https://github.com/suxrobgm/blazor-form-builder)**
-
-</div>
-
-Drag-and-drop form designer that outputs JSON schema with a runtime renderer, so admin dashboards stop needing hand-written forms.
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-</td>
-</tr>
-</table>
+> ### [Blazor Form Builder](https://github.com/suxrobgm/blazor-form-builder)
+>
+> Drag-and-drop form designer that outputs JSON schema with a runtime renderer, so admin dashboards stop needing hand-written forms.
+>
+> ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+> ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -309,62 +194,50 @@ Drag-and-drop form designer that outputs JSON schema with a runtime renderer, so
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
+[![Hearts of Iron IV: Economic Crisis](./assets/hoi-4-ec.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465)
 
 **Hearts of Iron IV: Economic Crisis**
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465) · [Releases](https://github.com/Economic-Crisis/Public-releases)
-
-</div>
 
 Large-scale mod with custom mechanics, AI behaviors, and balance systems.
 
-<img src="./assets/hoi-4-ec.jpg" alt="HOI4 EC" width="100%"/>
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2000532465) · [Releases](https://github.com/Economic-Crisis/Public-releases)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
+[![Chestnut MMO](./assets/chestnut.jpg)](https://www.chest-nut.io)
 
 **Chestnut (MMO)**
+
+Real-time MMO with authoritative server, custom physics, and sync for 100+ concurrent players. Web3 integration.
+
 [Play](https://www.chest-nut.io)
-
-</div>
-
-Real-time MMO with authoritative server, custom physics, and sync for **100+ concurrent players** with Web3 integration.
-
-<img src="./assets/chestnut.jpg" alt="Chestnut MMO" width="100%"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
+[![ChessMate](https://raw.githubusercontent.com/suxrobGM/online-chess/main/screenshots/screenshot-3.jpg)](https://github.com/suxrobGM/online-chess)
 
 **ChessMate**
+
+Online chess with AI opponents and rated or friendly PvP matchmaking.
+
 [Repo](https://github.com/suxrobGM/online-chess)
 
-</div>
-
-Online chess platform with AI opponents, rated/friendly PvP matchmaking.
-
-<img src="https://raw.githubusercontent.com/suxrobGM/online-chess/main/screenshots/screenshot-3.jpg" alt="ChessMate" width="100%"/>
-
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
+[![Maze 2D](https://raw.githubusercontent.com/suxrobGM/maze-godot/main/screenshots/game-scene.png)](https://github.com/suxrobGM/maze-godot)
 
 **Maze**
-[Repo](https://github.com/suxrobGM/maze-godot)
-
-</div>
 
 2D puzzle game with AI pathfinding and level progression.
 
-<img src="https://raw.githubusercontent.com/suxrobGM/maze-godot/main/screenshots/game-scene.png" alt="Maze 2D" width="100%"/>
+[Repo](https://github.com/suxrobGM/maze-godot)
 
 </td>
 </tr>
@@ -374,9 +247,33 @@ Online chess platform with AI opponents, rated/friendly PvP matchmaking.
 
 <div align="center">
 
-### GitHub Stats
+## GitHub Activity
 
-![Metrics](https://github.com/suxrobGM/suxrobGM/blob/main/github-metrics.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity-light.svg" alt="Contributions per month, one row per year" width="680"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cumulative-dark.svg">
+  <img src="./assets/cumulative-light.svg" alt="Running total of contributions" width="680"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mix-dark.svg">
+  <img src="./assets/mix-light.svg" alt="Contributions per year split into commits, pull requests, issues and reviews" width="680"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+  <img src="./assets/languages-light.svg" alt="Share of code by language in repositories started each year" width="680"/>
+</picture>
+
+<small>All four regenerate daily from the GitHub GraphQL API via <a href="./scripts/activity_chart.py">activity_chart.py</a>.</small>
+
+<br/><br/>
+
+![Metrics](./github-metrics.svg)
 
 </div>
 
