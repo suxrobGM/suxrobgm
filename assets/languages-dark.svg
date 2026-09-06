@@ -32,12 +32,12 @@
 <path d="M413.9,120.0 H660.0 Q664.0,120.0 664.0,124.0 V134.0 Q664.0,138.0 660.0,138.0 H413.9 Z" fill="#6e7681"/>
 <text x="539.0" y="133.0" font-size="10" fill="#ffffff" text-anchor="middle">Other 41%</text>
 <text x="48.0" y="162.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2021</text>
-<rect x="60.0" y="148.0" width="415.8" height="18.0" rx="0" fill="#3987e5"/>
+<rect x="60.0" y="148.0" width="415.9" height="18.0" rx="0" fill="#3987e5"/>
 <text x="267.9" y="161.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 69%</text>
-<rect x="477.8" y="148.0" width="137.6" height="18.0" rx="0" fill="#d95926"/>
+<rect x="477.9" y="148.0" width="137.5" height="18.0" rx="0" fill="#d95926"/>
 <text x="546.6" y="161.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 23%</text>
 <rect x="617.4" y="148.0" width="2.9" height="18.0" rx="0" fill="#199e70"/>
-<rect x="623.7" y="148.0" width="31.7" height="18.0" rx="0" fill="#d55181"/>
+<rect x="623.8" y="148.0" width="31.7" height="18.0" rx="0" fill="#d55181"/>
 <path d="M657.4,148.0 H660.0 Q664.0,148.0 664.0,152.0 V162.0 Q664.0,166.0 660.0,166.0 H657.4 Z" fill="#6e7681"/>
 <text x="48.0" y="190.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2022</text>
 <rect x="60.0" y="176.0" width="71.2" height="18.0" rx="0" fill="#3987e5"/>
@@ -70,10 +70,10 @@
 <path d="M564.0,260.0 H660.0 Q664.0,260.0 664.0,264.0 V274.0 Q664.0,278.0 660.0,278.0 H564.0 Z" fill="#6e7681"/>
 <text x="614.0" y="273.0" font-size="10" fill="#ffffff" text-anchor="middle">Other 17%</text>
 <text x="48.0" y="302.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2026</text>
-<rect x="60.0" y="288.0" width="107.0" height="18.0" rx="0" fill="#3987e5"/>
-<text x="113.5" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 18%</text>
-<rect x="169.0" y="288.0" width="422.7" height="18.0" rx="0" fill="#d95926"/>
-<text x="380.3" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 70%</text>
-<rect x="593.6" y="288.0" width="1.2" height="18.0" rx="0" fill="#199e70"/>
-<rect x="596.8" y="288.0" width="65.2" height="18.0" rx="0" fill="#c98500"/>
+<rect x="60.0" y="288.0" width="109.2" height="18.0" rx="0" fill="#3987e5"/>
+<text x="114.6" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 18%</text>
+<rect x="171.2" y="288.0" width="420.0" height="18.0" rx="0" fill="#d95926"/>
+<text x="381.2" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 70%</text>
+<rect x="593.2" y="288.0" width="1.2" height="18.0" rx="0" fill="#199e70"/>
+<rect x="596.4" y="288.0" width="65.6" height="18.0" rx="0" fill="#c98500"/>
 </g></svg>
