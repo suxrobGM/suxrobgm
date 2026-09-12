@@ -32,12 +32,12 @@
 <path d="M413.9,120.0 H660.0 Q664.0,120.0 664.0,124.0 V134.0 Q664.0,138.0 660.0,138.0 H413.9 Z" fill="#6e7681"/>
 <text x="539.0" y="133.0" font-size="10" fill="#ffffff" text-anchor="middle">Other 41%</text>
 <text x="48.0" y="162.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2021</text>
-<rect x="60.0" y="148.0" width="413.3" height="18.0" rx="0" fill="#3987e5"/>
-<text x="266.7" y="161.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 69%</text>
-<rect x="475.3" y="148.0" width="136.6" height="18.0" rx="0" fill="#d95926"/>
-<text x="543.6" y="161.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 23%</text>
-<rect x="613.9" y="148.0" width="2.9" height="18.0" rx="0" fill="#199e70"/>
-<rect x="620.2" y="148.0" width="35.3" height="18.0" rx="0" fill="#d55181"/>
+<rect x="60.0" y="148.0" width="413.9" height="18.0" rx="0" fill="#3987e5"/>
+<text x="267.0" y="161.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 69%</text>
+<rect x="475.9" y="148.0" width="136.2" height="18.0" rx="0" fill="#d95926"/>
+<text x="544.0" y="161.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 23%</text>
+<rect x="614.1" y="148.0" width="2.9" height="18.0" rx="0" fill="#199e70"/>
+<rect x="620.4" y="148.0" width="35.1" height="18.0" rx="0" fill="#d55181"/>
 <path d="M657.5,148.0 H660.0 Q664.0,148.0 664.0,152.0 V162.0 Q664.0,166.0 660.0,166.0 H657.5 Z" fill="#6e7681"/>
 <text x="48.0" y="190.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2022</text>
 <rect x="60.0" y="176.0" width="71.2" height="18.0" rx="0" fill="#3987e5"/>
