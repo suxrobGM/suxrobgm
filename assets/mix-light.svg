@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="274" viewBox="0 0 680 274" role="img" aria-labelledby="t d">
 <title id="t">What the contributions were</title>
-<desc id="d">Per year, by type · 2019–2026 · updated 2026-09-12</desc>
+<desc id="d">Per year, by type · 2019–2026 · updated 2026-09-13</desc>
 <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
 <text x="16.0" y="28.0" font-size="17" fill="#1f2328" font-weight="600">What the contributions were</text>
-<text x="16.0" y="50.0" font-size="12" fill="#6e7781">Per year, by type · 2019–2026 · updated 2026-09-12</text>
+<text x="16.0" y="50.0" font-size="12" fill="#6e7781">Per year, by type · 2019–2026 · updated 2026-09-13</text>
 <rect x="60.0" y="61.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
 <text x="75.0" y="70.0" font-size="11" fill="#59636e">Commits</text>
 <rect x="136.7" y="61.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
@@ -17,30 +17,29 @@
 <line x1="60.0" y1="244.0" x2="664.0" y2="244.0" stroke="#d0d7de" stroke-width="1"/>
 <text x="52.0" y="248.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">0</text>
 <line x1="60.0" y1="194.0" x2="664.0" y2="194.0" stroke="#d0d7de" stroke-width="1"/>
-<text x="52.0" y="198.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">2K</text>
+<text x="52.0" y="198.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">2.5K</text>
 <line x1="60.0" y1="144.0" x2="664.0" y2="144.0" stroke="#d0d7de" stroke-width="1"/>
-<text x="52.0" y="148.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">4K</text>
+<text x="52.0" y="148.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">5K</text>
 <line x1="60.0" y1="94.0" x2="664.0" y2="94.0" stroke="#d0d7de" stroke-width="1"/>
-<text x="52.0" y="98.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">6K</text>
-<path d="M85.8,244.0 V235.7 Q85.8,231.7 89.8,231.7 H105.8 Q109.8,231.7 109.8,235.7 V244.0 Z" fill="#2a78d6"/>
+<text x="52.0" y="98.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">7.5K</text>
+<path d="M85.8,244.0 V238.1 Q85.8,234.1 89.8,234.1 H105.8 Q109.8,234.1 109.8,238.1 V244.0 Z" fill="#2a78d6"/>
 <text x="97.8" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2019</text>
-<rect x="161.2" y="239.6" width="24.0" height="4.4" rx="0" fill="#2a78d6"/>
+<rect x="161.2" y="240.5" width="24.0" height="3.5" rx="0" fill="#2a78d6"/>
 <text x="173.2" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2020</text>
-<rect x="236.8" y="238.9" width="24.0" height="5.0" rx="0" fill="#2a78d6"/>
+<rect x="236.8" y="239.9" width="24.0" height="4.1" rx="0" fill="#2a78d6"/>
 <text x="248.8" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2021</text>
-<rect x="312.2" y="219.9" width="24.0" height="24.1" rx="0" fill="#2a78d6"/>
-<path d="M312.2,216.7 V216.7 Q312.2,214.7 314.3,214.7 H334.2 Q336.2,214.7 336.2,216.7 V216.7 Z" fill="#8c959f"/>
+<rect x="312.2" y="224.3" width="24.0" height="19.7" rx="0" fill="#2a78d6"/>
+<path d="M312.2,221.3 V221.3 Q312.2,220.1 313.5,220.1 H335.0 Q336.2,220.1 336.2,221.3 V221.3 Z" fill="#8c959f"/>
 <text x="324.2" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2022</text>
-<rect x="387.8" y="214.0" width="24.0" height="30.0" rx="0" fill="#2a78d6"/>
+<rect x="387.8" y="218.5" width="24.0" height="25.5" rx="0" fill="#2a78d6"/>
 <text x="399.8" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2023</text>
-<rect x="463.2" y="218.9" width="24.0" height="25.1" rx="0" fill="#2a78d6"/>
-<path d="M463.2,216.9 V216.0 Q463.2,212.0 467.2,212.0 H483.2 Q487.2,212.0 487.2,216.0 V216.9 Z" fill="#8c959f"/>
+<rect x="463.2" y="223.8" width="24.0" height="20.2" rx="0" fill="#2a78d6"/>
+<path d="M463.2,221.8 V221.8 Q463.2,218.3 466.8,218.3 H483.7 Q487.2,218.3 487.2,221.8 V221.8 Z" fill="#8c959f"/>
 <text x="475.2" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2024</text>
-<rect x="538.8" y="191.0" width="24.0" height="53.0" rx="0" fill="#2a78d6"/>
-<path d="M538.8,186.1 V184.1 Q538.8,180.1 542.8,180.1 H558.8 Q562.8,180.1 562.8,184.1 V186.1 Z" fill="#8c959f"/>
+<rect x="538.8" y="199.8" width="24.0" height="44.2" rx="0" fill="#2a78d6"/>
+<path d="M538.8,195.4 V195.0 Q538.8,191.0 542.8,191.0 H558.8 Q562.8,191.0 562.8,195.0 V195.4 Z" fill="#8c959f"/>
 <text x="550.8" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2025</text>
-<rect x="614.2" y="106.0" width="24.0" height="138.0" rx="0" fill="#2a78d6"/>
-<rect x="614.2" y="99.8" width="24.0" height="1.3" rx="0" fill="#1baf7a"/>
+<rect x="614.2" y="123.9" width="24.0" height="120.1" rx="0" fill="#2a78d6"/>
 <text x="626.2" y="262.0" font-size="11" fill="#6e7781" text-anchor="middle">2026</text>
-<text x="626.2" y="93.7" font-size="11" fill="#59636e" text-anchor="middle" style="font-variant-numeric: tabular-nums">5,772</text>
+<text x="626.2" y="112.9" font-size="11" fill="#59636e" text-anchor="middle" style="font-variant-numeric: tabular-nums">6,256</text>
 </g></svg>
