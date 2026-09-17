@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="274" viewBox="0 0 680 274" role="img" aria-labelledby="t d">
 <title id="t">What the contributions were</title>
-<desc id="d">Per year, by type · 2019–2026 · updated 2026-09-16</desc>
+<desc id="d">Per year, by type · 2019–2026 · updated 2026-09-17</desc>
 <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
 <text x="16.0" y="28.0" font-size="17" fill="#e6edf3" font-weight="600">What the contributions were</text>
-<text x="16.0" y="50.0" font-size="12" fill="#8b949e">Per year, by type · 2019–2026 · updated 2026-09-16</text>
+<text x="16.0" y="50.0" font-size="12" fill="#8b949e">Per year, by type · 2019–2026 · updated 2026-09-17</text>
 <rect x="60.0" y="61.0" width="10.0" height="10.0" rx="2" fill="#3987e5"/>
 <text x="75.0" y="70.0" font-size="11" fill="#8b949e">Commits</text>
 <rect x="136.7" y="61.0" width="10.0" height="10.0" rx="2" fill="#d95926"/>
@@ -39,7 +39,7 @@
 <rect x="538.8" y="199.8" width="24.0" height="44.2" rx="0" fill="#3987e5"/>
 <path d="M538.8,195.4 V195.0 Q538.8,191.0 542.8,191.0 H558.8 Q562.8,191.0 562.8,195.0 V195.4 Z" fill="#6e7681"/>
 <text x="550.8" y="262.0" font-size="11" fill="#8b949e" text-anchor="middle">2025</text>
-<rect x="614.2" y="120.6" width="24.0" height="123.4" rx="0" fill="#3987e5"/>
+<rect x="614.2" y="118.9" width="24.0" height="125.1" rx="0" fill="#3987e5"/>
 <text x="626.2" y="262.0" font-size="11" fill="#8b949e" text-anchor="middle">2026</text>
-<text x="626.2" y="109.6" font-size="11" fill="#8b949e" text-anchor="middle" style="font-variant-numeric: tabular-nums">6,420</text>
+<text x="626.2" y="107.9" font-size="11" fill="#8b949e" text-anchor="middle" style="font-variant-numeric: tabular-nums">6,506</text>
 </g></svg>
