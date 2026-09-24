@@ -68,11 +68,11 @@
 <path d="M564.0,260.0 H660.0 Q664.0,260.0 664.0,264.0 V274.0 Q664.0,278.0 660.0,278.0 H564.0 Z" fill="#8c959f"/>
 <text x="614.0" y="273.0" font-size="10" fill="#ffffff" text-anchor="middle">Other 17%</text>
 <text x="48.0" y="302.0" font-size="13" fill="#59636e" text-anchor="end" font-weight="600">2026</text>
-<rect x="60.0" y="288.0" width="82.7" height="18.0" rx="0" fill="#2a78d6"/>
-<text x="101.3" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 14%</text>
-<rect x="144.7" y="288.0" width="427.5" height="18.0" rx="0" fill="#eb6834"/>
-<text x="358.4" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 71%</text>
-<rect x="574.1" y="288.0" width="2.7" height="18.0" rx="0" fill="#1baf7a"/>
-<rect x="578.8" y="288.0" width="46.7" height="18.0" rx="0" fill="#eda100"/>
-<rect x="627.5" y="288.0" width="34.5" height="18.0" rx="0" fill="#e87ba4"/>
+<rect x="60.0" y="288.0" width="83.4" height="18.0" rx="0" fill="#2a78d6"/>
+<text x="101.7" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 14%</text>
+<rect x="145.4" y="288.0" width="431.2" height="18.0" rx="0" fill="#eb6834"/>
+<text x="361.0" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 72%</text>
+<rect x="578.7" y="288.0" width="2.7" height="18.0" rx="0" fill="#1baf7a"/>
+<rect x="583.4" y="288.0" width="47.1" height="18.0" rx="0" fill="#eda100"/>
+<rect x="632.5" y="288.0" width="29.5" height="18.0" rx="0" fill="#e87ba4"/>
 </g></svg>
