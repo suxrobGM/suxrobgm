@@ -70,9 +70,9 @@
 <text x="48.0" y="302.0" font-size="13" fill="#59636e" text-anchor="end" font-weight="600">2026</text>
 <rect x="60.0" y="288.0" width="79.0" height="18.0" rx="0" fill="#2a78d6"/>
 <text x="99.5" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 13%</text>
-<rect x="141.0" y="288.0" width="433.5" height="18.0" rx="0" fill="#eb6834"/>
-<text x="357.8" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 72%</text>
-<rect x="576.5" y="288.0" width="3.1" height="18.0" rx="0" fill="#1baf7a"/>
-<rect x="581.7" y="288.0" width="48.1" height="18.0" rx="0" fill="#eda100"/>
-<rect x="631.8" y="288.0" width="30.1" height="18.0" rx="0" fill="#e87ba4"/>
+<rect x="141.0" y="288.0" width="434.3" height="18.0" rx="0" fill="#eb6834"/>
+<text x="358.2" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 72%</text>
+<rect x="577.3" y="288.0" width="3.1" height="18.0" rx="0" fill="#1baf7a"/>
+<rect x="582.4" y="288.0" width="47.7" height="18.0" rx="0" fill="#eda100"/>
+<rect x="632.1" y="288.0" width="29.8" height="18.0" rx="0" fill="#e87ba4"/>
 </g></svg>
