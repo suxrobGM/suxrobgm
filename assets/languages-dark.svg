@@ -20,7 +20,7 @@
 <text x="503.1" y="70.0" font-size="11" fill="#8b949e">Other</text>
 <text x="48.0" y="106.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2019</text>
 <rect x="60.0" y="92.0" width="279.7" height="18.0" rx="0" fill="#3987e5"/>
-<text x="199.9" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 47%</text>
+<text x="199.8" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 47%</text>
 <rect x="341.7" y="92.0" width="5.0" height="18.0" rx="0" fill="#d95926"/>
 <rect x="348.7" y="92.0" width="281.2" height="18.0" rx="0" fill="#199e70"/>
 <text x="489.3" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">JavaScript 47%</text>
