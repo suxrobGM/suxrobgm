@@ -22,10 +22,10 @@
 <text x="528.7" y="70.0" font-size="11" fill="#8b949e">Other</text>
 <text x="48.0" y="106.0" font-size="13" fill="#8b949e" text-anchor="end" font-weight="600">2019</text>
 <text x="664.0" y="106.0" font-size="11" fill="#8b949e" text-anchor="end" style="font-variant-numeric: tabular-nums">19 repos</text>
-<rect x="60.0" y="92.0" width="373.2" height="18.0" rx="0" fill="#3987e5"/>
-<text x="246.6" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 69%</text>
-<rect x="435.2" y="92.0" width="5.4" height="18.0" rx="0" fill="#d95926"/>
-<rect x="444.9" y="92.0" width="122.4" height="18.0" rx="0" fill="#c98500"/>
+<rect x="60.0" y="92.0" width="373.8" height="18.0" rx="0" fill="#3987e5"/>
+<text x="246.9" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 70%</text>
+<rect x="435.8" y="92.0" width="4.7" height="18.0" rx="0" fill="#d95926"/>
+<rect x="444.8" y="92.0" width="122.5" height="18.0" rx="0" fill="#c98500"/>
 <text x="506.1" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">JavaScript 23%</text>
 <rect x="569.3" y="92.0" width="26.4" height="18.0" rx="0" fill="#d55181"/>
 <path d="M597.8,92.0 H597.8 Q600.0,92.0 600.0,94.2 V107.8 Q600.0,110.0 597.8,110.0 H597.8 Z" fill="#6e7681"/>
