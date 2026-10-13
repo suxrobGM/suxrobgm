@@ -86,10 +86,10 @@
 <text x="664.0" y="302.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">14 repos</text>
 <rect x="60.0" y="288.0" width="123.2" height="18.0" rx="0" fill="#2a78d6"/>
 <text x="121.6" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 23%</text>
-<rect x="185.2" y="288.0" width="152.4" height="18.0" rx="0" fill="#eb6834"/>
-<text x="261.4" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">Python 29%</text>
-<rect x="339.6" y="288.0" width="247.0" height="18.0" rx="0" fill="#1baf7a"/>
-<text x="463.1" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 46%</text>
-<rect x="588.6" y="288.0" width="1.6" height="18.0" rx="0" fill="#eda100"/>
-<path d="M592.2,288.0 H596.0 Q600.0,288.0 600.0,292.0 V302.0 Q600.0,306.0 596.0,306.0 H592.2 Z" fill="#8c959f"/>
+<rect x="185.2" y="288.0" width="151.1" height="18.0" rx="0" fill="#eb6834"/>
+<text x="260.8" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">Python 28%</text>
+<rect x="338.3" y="288.0" width="247.0" height="18.0" rx="0" fill="#1baf7a"/>
+<text x="461.8" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 46%</text>
+<rect x="587.3" y="288.0" width="1.6" height="18.0" rx="0" fill="#eda100"/>
+<path d="M590.9,288.0 H596.0 Q600.0,288.0 600.0,292.0 V302.0 Q600.0,306.0 596.0,306.0 H590.9 Z" fill="#8c959f"/>
 </g></svg>
