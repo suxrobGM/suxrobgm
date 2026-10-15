@@ -88,8 +88,8 @@
 <text x="121.6" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 23%</text>
 <rect x="185.2" y="288.0" width="151.1" height="18.0" rx="0" fill="#d95926"/>
 <text x="260.8" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">Python 28%</text>
-<rect x="338.3" y="288.0" width="247.0" height="18.0" rx="0" fill="#199e70"/>
-<text x="461.8" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 46%</text>
-<rect x="587.3" y="288.0" width="1.6" height="18.0" rx="0" fill="#c98500"/>
-<path d="M590.9,288.0 H596.0 Q600.0,288.0 600.0,292.0 V302.0 Q600.0,306.0 596.0,306.0 H590.9 Z" fill="#6e7681"/>
+<rect x="338.3" y="288.0" width="246.4" height="18.0" rx="0" fill="#199e70"/>
+<text x="461.5" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 46%</text>
+<rect x="586.7" y="288.0" width="1.6" height="18.0" rx="0" fill="#c98500"/>
+<path d="M590.3,288.0 H596.0 Q600.0,288.0 600.0,292.0 V302.0 Q600.0,306.0 596.0,306.0 H590.3 Z" fill="#6e7681"/>
 </g></svg>
