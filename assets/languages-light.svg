@@ -22,9 +22,9 @@
 <text x="528.7" y="70.0" font-size="11" fill="#59636e">Other</text>
 <text x="48.0" y="106.0" font-size="13" fill="#59636e" text-anchor="end" font-weight="600">2019</text>
 <text x="664.0" y="106.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">19 repos</text>
-<rect x="60.0" y="92.0" width="373.8" height="18.0" rx="0" fill="#2a78d6"/>
+<rect x="60.0" y="92.0" width="373.9" height="18.0" rx="0" fill="#2a78d6"/>
 <text x="246.9" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 70%</text>
-<rect x="435.8" y="92.0" width="4.7" height="18.0" rx="0" fill="#eb6834"/>
+<rect x="435.9" y="92.0" width="4.6" height="18.0" rx="0" fill="#eb6834"/>
 <rect x="444.8" y="92.0" width="122.5" height="18.0" rx="0" fill="#eda100"/>
 <text x="506.1" y="105.0" font-size="10" fill="#ffffff" text-anchor="middle">JavaScript 23%</text>
 <rect x="569.3" y="92.0" width="26.4" height="18.0" rx="0" fill="#e87ba4"/>
@@ -85,10 +85,10 @@
 <text x="48.0" y="302.0" font-size="13" fill="#59636e" text-anchor="end" font-weight="600">2026</text>
 <text x="664.0" y="302.0" font-size="11" fill="#6e7781" text-anchor="end" style="font-variant-numeric: tabular-nums">14 repos</text>
 <rect x="60.0" y="288.0" width="123.3" height="18.0" rx="0" fill="#2a78d6"/>
-<text x="121.6" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 23%</text>
+<text x="121.7" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">C# 23%</text>
 <rect x="185.3" y="288.0" width="151.1" height="18.0" rx="0" fill="#eb6834"/>
 <text x="260.8" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">Python 28%</text>
-<rect x="338.3" y="288.0" width="246.4" height="18.0" rx="0" fill="#1baf7a"/>
+<rect x="338.4" y="288.0" width="246.4" height="18.0" rx="0" fill="#1baf7a"/>
 <text x="461.5" y="301.0" font-size="10" fill="#ffffff" text-anchor="middle">TypeScript 46%</text>
 <rect x="586.7" y="288.0" width="1.3" height="18.0" rx="0" fill="#eda100"/>
 <path d="M590.1,288.0 H596.0 Q600.0,288.0 600.0,292.0 V302.0 Q600.0,306.0 596.0,306.0 H590.1 Z" fill="#8c959f"/>
