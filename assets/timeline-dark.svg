@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="304" viewBox="0 0 680 304" role="img" aria-labelledby="t d">
 <title id="t">Contributions per month</title>
-<desc id="d">17,710 since 2019 · 60% of them in the last twelve months · updated 2026-11-02</desc>
+<desc id="d">17,816 since 2019 · 60% of them in the last twelve months · updated 2026-11-03</desc>
 <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
 <text x="16.0" y="28.0" font-size="17" fill="#e6edf3" font-weight="600">Contributions per month</text>
-<text x="16.0" y="50.0" font-size="12" fill="#8b949e">17,710 since 2019 · 60% of them in the last twelve months · updated 2026-11-02</text>
+<text x="16.0" y="50.0" font-size="12" fill="#8b949e">17,816 since 2019 · 60% of them in the last twelve months · updated 2026-11-03</text>
 <line x1="52.0" y1="238.0" x2="664.0" y2="238.0" stroke="#30363d" stroke-width="1"/>
 <text x="44.0" y="242.0" font-size="11" fill="#8b949e" text-anchor="end" style="font-variant-numeric: tabular-nums">0</text>
 <line x1="52.0" y1="179.9" x2="664.0" y2="179.9" stroke="#30363d" stroke-width="1"/>
@@ -104,7 +104,7 @@
 <path d="M645.7,238.0 V121.0 Q645.7,119.0 647.7,119.0 H648.1 Q650.1,119.0 650.1,121.0 V238.0 Z" fill="#3987e5"/>
 <path d="M652.1,238.0 V101.1 Q652.1,99.1 654.1,99.1 H654.6 Q656.6,99.1 656.6,101.1 V238.0 Z" fill="#3987e5"/>
 <text x="656.6" y="92.1" font-size="11" fill="#8b949e" text-anchor="end" style="font-variant-numeric: tabular-nums">2,390 in Oct 2026</text>
-<path d="M658.6,238.0 V234.5 Q658.6,232.5 660.6,232.5 H661.0 Q663.0,232.5 663.0,234.5 V238.0 Z" fill="#1c5cab"/>
+<path d="M658.6,238.0 V228.4 Q658.6,226.4 660.6,226.4 H661.0 Q663.0,226.4 663.0,228.4 V238.0 Z" fill="#1c5cab"/>
 <text x="90.7" y="256.0" font-size="12" fill="#8b949e" text-anchor="middle" font-weight="600">2019</text>
 <text x="90.7" y="271.0" font-size="11" fill="#8b949e" text-anchor="middle" style="font-variant-numeric: tabular-nums">514</text>
 <line x1="129.3" y1="238.0" x2="129.3" y2="244.0" stroke="#30363d" stroke-width="1"/>
@@ -127,7 +127,7 @@
 <text x="554.5" y="271.0" font-size="11" fill="#8b949e" text-anchor="middle" style="font-variant-numeric: tabular-nums">2,666</text>
 <line x1="593.1" y1="238.0" x2="593.1" y2="244.0" stroke="#30363d" stroke-width="1"/>
 <text x="628.6" y="256.0" font-size="12" fill="#8b949e" text-anchor="middle" font-weight="600">2026</text>
-<text x="628.6" y="271.0" font-size="11" fill="#8b949e" text-anchor="middle" style="font-variant-numeric: tabular-nums">10,225</text>
+<text x="628.6" y="271.0" font-size="11" fill="#8b949e" text-anchor="middle" style="font-variant-numeric: tabular-nums">10,331</text>
 <rect x="52.0" y="283.0" width="10.0" height="10.0" rx="2" fill="#1c5cab"/>
 <text x="68.0" y="292.0" font-size="11" fill="#8b949e">Nov 2026 so far</text>
 </g></svg>
