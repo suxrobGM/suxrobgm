@@ -32,8 +32,6 @@ I do computer vision research, mostly for medicine and biology. Abstracts and Bi
 > Matches microscope images of treated cells to a plain-language description of the drug or gene behind the change. The encoders stay frozen and only small heads train, so one consumer GPU is enough.
 >
 > <small>**CPJUMP1** · 51 plates · 3M+ images</small><br clear="right"/>
-
-> <img align="right" width="38%" src="./assets/paper-localize.webp" alt="One face edited three ways: input, prompt only, and masked composite"/>
 >
 > ### [MelanomaNet](https://arxiv.org/abs/2512.09289)
 >
