@@ -6,8 +6,9 @@
 </picture>
 
 <br/>
-
+<!-- TEMP:
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=p7ujRHoAAAAJ&hl=en)
+-->
 [![Publications](https://img.shields.io/badge/Publications-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://suxrobgm.net/research)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/suxrobgm)
 [![Portfolio](https://img.shields.io/badge/suxrobgm.net-000?style=for-the-badge&logo=vercel&logoColor=white)](https://suxrobgm.net)
